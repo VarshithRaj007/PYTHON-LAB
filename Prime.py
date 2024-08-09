@@ -7,5 +7,6 @@ if(c == 1):
     print("Not a Prime number")
 else:
     print("Prime number")
+
         
     
